@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Zona horaria</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body class="flex" onload="mueveReloj()">
+	<div class="clock">
+		<form name="form_reloj">
+			<h3 class="title">Lima - Perú</h3>
+			<input class="clock-st" type="text" name="reloj" size="10" onfocus="window.document.form_reloj.reloj.blur()">
+			<h3 class="title">Nueva York - EE.UU.</h3>
+			<input class="clock-st" type="text" name="reloj_extra" size="10" onfocus="window.document.form_reloj.reloj.blur()">  
+		</form> 
+	</div>
+
+	<script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

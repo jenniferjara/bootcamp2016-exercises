@@ -1,0 +1,44 @@
+html, body {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+}
+body{
+	background-color: grey;
+	font-family: Courier;
+	font-size: 1.5em;
+}
+.w-80{
+	width: 80%;
+
+}
+.flex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+/*----Formulario------*/
+.form{
+	background-color: #fff;
+	width: 40%;
+	border: 1px solid #0B615E;
+	border-top: 10px solid #0B615E;
+	padding: 2% 2%;
+}
+.content{
+	text-align: center;
+}
+.content input{
+	width: 50%;
+	margin: 1% 0%;
+	margin-left: 3%;
+}
+.boton{
+	color: #fff;
+	border: none;
+	background-color: grey;
+	padding: 1% 20%;
+	margin:2% 30%;
+}

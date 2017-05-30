@@ -1,0 +1,17 @@
+body {
+	box-sizing: border-box;
+	padding: 20px;
+	margin: 0;
+}
+.btn-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.boton {	
+	background-color: #fff;
+	font-family: Verdana;
+	font-size: 20px;
+	padding: 1% 10%;
+	cursor: pointer;
+}
