@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: grey;
+    font-family: cursive;
+}
+div {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	display: inline-block;
+}
+
+#uno {
+	background-color: red;
+}
+#dos {
+	background-color: blue;
+}
+#tres {
+	background-color: green;
+}
