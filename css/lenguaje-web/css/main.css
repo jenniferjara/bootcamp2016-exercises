@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+	font-size: 20px;
+	font-weight: 500px;
+}
+img {
+	border-color: blue 1px solid;
+}
+p {
+	color: yellow;
+	font-size: 14px;
+}
+h2 {
+	color: black;
+	font-size: 16px;
+}
