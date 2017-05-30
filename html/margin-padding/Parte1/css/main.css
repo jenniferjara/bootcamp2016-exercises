@@ -1,0 +1,11 @@
+/* Agrega aqui tu CSS */
+.bloque {
+	border: 2px solid orange;
+	width: 220px;
+	padding: 10px;
+}
+
+.bloque h3 {
+	font-size: 1px;
+	margin: 0px 0px;
+}

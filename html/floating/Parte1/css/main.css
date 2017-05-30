@@ -1,0 +1,23 @@
+/* Pon tu código css aqui */
+div {
+	width: 25%;
+	height: 100px;
+ }
+
+.padre {
+	border: 1px solid grey;
+	width: 400px;
+	height: 300px;
+}
+
+.yellow {
+	background-color: yellow
+}
+
+.celeste {
+	background-color: #3A81BA;
+}
+
+.rosa {
+	background-color: #ED2251;
+}

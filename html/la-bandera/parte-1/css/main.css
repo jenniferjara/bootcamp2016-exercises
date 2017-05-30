@@ -1,0 +1,15 @@
+/* Escribe tu css aqui */
+div {
+	background-color: yellow;
+	height: 100px;
+	margin: 0px;
+	display: block;
+}
+
+p {
+	margin: 0px;
+}
+
+.red {
+	background-color: red;
+}

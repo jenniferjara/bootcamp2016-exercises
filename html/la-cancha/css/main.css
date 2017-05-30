@@ -1,0 +1,59 @@
+/* Inserta tu CSS aqui */
+div {
+	background-color: #8CB27C;
+}
+
+.campo {
+	width: 750px;
+	height: 400px;
+	position: static;
+}
+
+.medio {
+	border: 2px solid white;
+	width: 700px;
+	height: 350px;
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+
+.caja {
+	border: 1px solid white;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 150px;
+}
+
+.izquierdo {
+	left: 30px;
+	border-left: 0px;
+}
+
+.derecho {
+	left: 629px;
+	border-right: 0px;
+}
+ .centro {
+ 	border-radius: 50px;
+ 	left: 300px;
+ }
+
+ #uno {
+ 	position: absolute;
+ 	left: 140px;
+ 	top: 150px;
+ }
+
+ #dos {
+ 	position: absolute;
+ 	left: 300px;
+ 	top: 120px;
+ }
+
+ #tres {
+ 	position: absolute;
+ 	left: 600px;
+ 	top: 220px;
+ }

@@ -1,0 +1,17 @@
+/* Escribe aqui tu CSS */
+p {
+	border: 12px solid yellow;
+	width: 200px;
+	height: 200px;
+	padding: 20px 13px;
+	margin: 10px;
+}
+
+.uno {
+	text-align: center;
+}
+
+.dos {
+	position: absolute;
+	left: 300px;
+}

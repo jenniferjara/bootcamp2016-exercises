@@ -1,0 +1,24 @@
+/* Pon tu código css aqui */
+.clearfix {
+	border: 1px solid grey;
+	width: 45%;
+	overflow: auto;
+}
+
+.yellow, .celeste, .rosa {
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+
+.yellow {
+	background-color: yellow
+}
+
+.celeste {
+	background-color: #3A81BA;
+}
+
+.rosa {
+	background-color: #ED2251;
+}

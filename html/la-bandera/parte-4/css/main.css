@@ -1,0 +1,13 @@
+/* Escribe tu css aqui */
+p {
+	background-color: yellow;
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+
+
+.red {
+	background-color: red;
+}

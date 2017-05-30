@@ -1,0 +1,23 @@
+/* Pon tu código css aqui */
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.uno, .dos, .tres {
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+
+.uno {
+	background-color: #ED2251;
+}
+
+.dos {
+	background-color: #3A81BA;
+}
+
+.tres {
+	background-color: #8BAB42;
+}
